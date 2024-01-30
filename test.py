@@ -19,9 +19,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXX*/
 {content}
 """)
 
-# Example usage
-main_dir = "C:/Development/Adtones/AdtonesAdmin/src/app/features/"
-directory_path = main_dir + "campaign-create-edit"  # Replace with your actual directory path
+# Usage
+directory_path = "C:/Development/Adtones/AdtonesAdmin/src/app/features/campaign-create-edit"  # Replace with your actual directory path
 output_file = "C:\Development\Adtones\AdtonesAdmin\combined_campaign-create-edit.txt"
 process_directory(directory_path, output_file)
 
